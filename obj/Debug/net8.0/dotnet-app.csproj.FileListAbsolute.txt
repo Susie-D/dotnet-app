@@ -1,0 +1,14 @@
+/Users/sdouang/Projects/dotnet-app/bin/Debug/net8.0/dotnet-app
+/Users/sdouang/Projects/dotnet-app/bin/Debug/net8.0/dotnet-app.deps.json
+/Users/sdouang/Projects/dotnet-app/bin/Debug/net8.0/dotnet-app.runtimeconfig.json
+/Users/sdouang/Projects/dotnet-app/bin/Debug/net8.0/dotnet-app.dll
+/Users/sdouang/Projects/dotnet-app/bin/Debug/net8.0/dotnet-app.pdb
+/Users/sdouang/Projects/dotnet-app/obj/Debug/net8.0/dotnet-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sdouang/Projects/dotnet-app/obj/Debug/net8.0/dotnet-app.AssemblyInfoInputs.cache
+/Users/sdouang/Projects/dotnet-app/obj/Debug/net8.0/dotnet-app.AssemblyInfo.cs
+/Users/sdouang/Projects/dotnet-app/obj/Debug/net8.0/dotnet-app.csproj.CoreCompileInputs.cache
+/Users/sdouang/Projects/dotnet-app/obj/Debug/net8.0/dotnet-app.dll
+/Users/sdouang/Projects/dotnet-app/obj/Debug/net8.0/refint/dotnet-app.dll
+/Users/sdouang/Projects/dotnet-app/obj/Debug/net8.0/dotnet-app.pdb
+/Users/sdouang/Projects/dotnet-app/obj/Debug/net8.0/dotnet-app.genruntimeconfig.cache
+/Users/sdouang/Projects/dotnet-app/obj/Debug/net8.0/ref/dotnet-app.dll
